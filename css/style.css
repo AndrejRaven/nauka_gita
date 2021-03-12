@@ -14,8 +14,8 @@ h1 {
 }
 
 .author {
-    border-bottom: 1px solid gray;
-    border-top: 1px solid gray;
+    border-bottom: 1px solid gainsboro;
+    border-top: 1px solid gainsboro;
     height: 40px;
     padding-top: 20px;
     width: 100%;
